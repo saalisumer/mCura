@@ -1,0 +1,26 @@
+//
+// Prefix header for all source files of the '3GMDoc' target in the '3GMDoc' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+#define pinCase 2
+#define usrPswdCase 1
+//#define DATABASE_NAME @"mCura.sqlite"
+
+#define iPhoneType (fabs((double)[UIScreen mainScreen].bounds.size.height - (double)568) < DBL_EPSILON) ? @"5" : ([UIScreen mainScreen].scale==2 || UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad ? @"4" : @"3")
+
+#define IS_IPAD             (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)?YES:NO
+
+
+#define IS_OS_7_OR_LATER    ([[[UIDevice currentDevice] systemVersion] floatValue] >= 7.0)
+
+#define DATABASE_NAME @"drugs.db"
+
+#define mCuraBaseUrl @"demo.mcura.com"
+
+//#define mCuraBaseUrl @"mcura.crocuss.co"
+#define GenericfromBrand 2

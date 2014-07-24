@@ -1,0 +1,927 @@
+// !$*UTF8*$!
+{
+	04262FC31498E3380079039F /* GetTabletInvocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1349, 598}}";
+			sepNavSelRange = "{401, 0}";
+			sepNavVisRange = "{0, 1205}";
+		};
+	};
+	1D3623250D0F684500981E51 /* _GMDocAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 923}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1404}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* 3GMDoc */ = {
+		activeExec = 0;
+		executables = (
+			A5A3C12214A36D7E00495144 /* 3GMDoc */,
+		);
+	};
+	26395ED4149CED11008CA1D7 /* STPNAppointmentRootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1699, 8983}}";
+			sepNavSelRange = "{2450, 0}";
+			sepNavVisRange = "{2030, 728}";
+		};
+	};
+	267330C51499231100D86D1A /* Response.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 369}";
+		};
+	};
+	267330CC1499234700D86D1A /* DeviceDeatils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 595}";
+		};
+	};
+	267330D314992A9100D86D1A /* STPNHomeScreen.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 1755}}";
+			sepNavSelRange = "{2411, 0}";
+			sepNavVisRange = "{1657, 1731}";
+		};
+	};
+	267330E214992BC300D86D1A /* GetUserInvocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1286, 572}}";
+			sepNavSelRange = "{343, 0}";
+			sepNavVisRange = "{0, 1316}";
+		};
+	};
+	267330E414992CE100D86D1A /* UserDetail.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 524}";
+		};
+	};
+	2673FBF2149DBE4D0014BCE7 /* Booking.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 423}";
+		};
+	};
+	2673FBF9149DBE4D0014BCE7 /* Patdemographics.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 484}";
+		};
+	};
+	2673FC8814A0913F0014BCE7 /* STPNFixAppointmentViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1419, 3822}}";
+			sepNavSelRange = "{6776, 34}";
+			sepNavVisRange = "{7234, 1156}";
+		};
+	};
+	2673FCEC14A0913F0014BCE7 /* Patient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 937}";
+		};
+	};
+	2673FCED14A0913F0014BCE7 /* Patient.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1349, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 718}";
+		};
+	};
+	2673FCF214A0913F0014BCE7 /* PatientAddress.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 430}";
+		};
+	};
+	2673FCF814A0913F0014BCE7 /* PatientContactDetails.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 594}";
+		};
+	};
+	2673FCFF14A0913F0014BCE7 /* GetPatientInvocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1433, 598}}";
+			sepNavSelRange = "{372, 0}";
+			sepNavVisRange = "{0, 1447}";
+		};
+	};
+	2673FD5814A0913F0014BCE7 /* GetConnonInvocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 910}}";
+			sepNavSelRange = "{517, 0}";
+			sepNavVisRange = "{0, 931}";
+		};
+	};
+	2673FD5F14A0913F0014BCE7 /* STPNBlockAppointmentViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1160, 2782}}";
+			sepNavSelRange = "{5235, 69}";
+			sepNavVisRange = "{4592, 1211}";
+		};
+	};
+	2673FDAA14A0913F0014BCE7 /* STPNAddPatientViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 650}}";
+			sepNavSelRange = "{181, 28}";
+			sepNavVisRange = "{147, 437}";
+		};
+	};
+	2673FDAB14A0913F0014BCE7 /* STPNAddPatientViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 3809}}";
+			sepNavSelRange = "{59, 28}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	2677C757149855E300F44782 /* SAServiceAsyncInvocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 3601}}";
+			sepNavSelRange = "{4841, 0}";
+			sepNavVisRange = "{4243, 1334}";
+		};
+	};
+	2677C760149855E300F44782 /* _GMDocAsyncInvocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 353}";
+		};
+	};
+	2677C761149855E300F44782 /* _GMDocService.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1839, 611}}";
+			sepNavSelRange = "{1667, 161}";
+			sepNavVisRange = "{58, 2227}";
+		};
+	};
+	2677C762149855E300F44782 /* _GMDocService.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1839, 1651}}";
+			sepNavSelRange = "{3619, 0}";
+			sepNavVisRange = "{2429, 1895}";
+		};
+	};
+	267B896B1499217500B71687 /* GetLoginInvocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 702}}";
+			sepNavSelRange = "{619, 0}";
+			sepNavVisRange = "{183, 1438}";
+		};
+	};
+	26A2D7D7149E141400178152 /* Appointment.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 621}";
+		};
+	};
+	26B1A8B814A0FA2F006C0701 /* STPNMoveAppointmentViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2014, 4472}}";
+			sepNavSelRange = "{8032, 0}";
+			sepNavVisRange = "{7121, 1375}";
+		};
+	};
+	26B1A8CA14A10BFA006C0701 /* PostMoveAppointmentInvocation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{488, 51}";
+			sepNavVisRange = "{0, 695}";
+		};
+	};
+	26B1A8CB14A10BFA006C0701 /* PostMoveAppointmentInvocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2224, 754}}";
+			sepNavSelRange = "{602, 13}";
+			sepNavVisRange = "{325, 1364}";
+		};
+	};
+	26B26B24149A6B39002A961F /* Schedule.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{722, 13}";
+			sepNavVisRange = "{0, 1246}";
+		};
+	};
+	26B26B25149A6B39002A961F /* Schedule.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1664, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 970}";
+		};
+	};
+	26B26B2D149A71C6002A961F /* GetScheduleInvocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 897}}";
+			sepNavSelRange = "{683, 0}";
+			sepNavVisRange = "{0, 1265}";
+		};
+	};
+	26B43E5A14A0C53200F66B74 /* InsertAppointmentInvocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2385, 806}}";
+			sepNavSelRange = "{961, 0}";
+			sepNavVisRange = "{106, 1089}";
+		};
+	};
+	26B43EA414A0CE6300F66B74 /* AddPatientInvocation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 509}}";
+			sepNavSelRange = "{663, 0}";
+			sepNavVisRange = "{0, 738}";
+		};
+	};
+	26B43EA514A0CE6300F66B74 /* AddPatientInvocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2749, 1534}}";
+			sepNavSelRange = "{1824, 0}";
+			sepNavVisRange = "{854, 1551}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A5A3C12214A36D7E00495144 /* 3GMDoc */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* 3GMDoc */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* 3GMDoc */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = A5A3C13714A36DA100495144 /* Code sense */;
+		executables = (
+			A5A3C12214A36D7E00495144 /* 3GMDoc */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					841,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 346942628;
+			PBXWorkspaceStateSaveDate = 346942628;
+		};
+		perUserProjectItems = {
+			A5A3C14A14A373C200495144 /* PBXTextBookmark */ = A5A3C14A14A373C200495144 /* PBXTextBookmark */;
+			A5A3C19314A37E0E00495144 /* PBXTextBookmark */ = A5A3C19314A37E0E00495144 /* PBXTextBookmark */;
+			A5A3C19414A37E0E00495144 /* PBXTextBookmark */ = A5A3C19414A37E0E00495144 /* PBXTextBookmark */;
+			A5B40D7414ADF1F300325471 /* PBXTextBookmark */ = A5B40D7414ADF1F300325471 /* PBXTextBookmark */;
+			A5B40D7514ADF1F300325471 /* PBXTextBookmark */ = A5B40D7514ADF1F300325471 /* PBXTextBookmark */;
+			A5B40D7614ADF1F300325471 /* PBXTextBookmark */ = A5B40D7614ADF1F300325471 /* PBXTextBookmark */;
+			A5B40D7714ADF1F300325471 /* PBXTextBookmark */ = A5B40D7714ADF1F300325471 /* PBXTextBookmark */;
+			A5B40D7814ADF1F300325471 /* PBXTextBookmark */ = A5B40D7814ADF1F300325471 /* PBXTextBookmark */;
+			A5B40D7914ADF1F300325471 /* PBXTextBookmark */ = A5B40D7914ADF1F300325471 /* PBXTextBookmark */;
+			A5B40D7A14ADF1F300325471 /* PBXTextBookmark */ = A5B40D7A14ADF1F300325471 /* PBXTextBookmark */;
+			A5B40D7B14ADF1F300325471 /* PBXTextBookmark */ = A5B40D7B14ADF1F300325471 /* PBXTextBookmark */;
+			A5B40D8814ADF61700325471 /* PBXTextBookmark */ = A5B40D8814ADF61700325471 /* PBXTextBookmark */;
+			A5B40DA614ADFC7E00325471 /* PBXTextBookmark */ = A5B40DA614ADFC7E00325471 /* PBXTextBookmark */;
+			A5B40DA914ADFC7E00325471 /* PBXTextBookmark */ = A5B40DA914ADFC7E00325471 /* PBXTextBookmark */;
+			A5B40DAA14ADFC7E00325471 /* PBXTextBookmark */ = A5B40DAA14ADFC7E00325471 /* PBXTextBookmark */;
+			A5B40DAC14ADFC7E00325471 /* PBXTextBookmark */ = A5B40DAC14ADFC7E00325471 /* PBXTextBookmark */;
+			A5B40DAD14ADFC7E00325471 /* PBXTextBookmark */ = A5B40DAD14ADFC7E00325471 /* PBXTextBookmark */;
+			A5B40DAE14ADFC7E00325471 /* PBXTextBookmark */ = A5B40DAE14ADFC7E00325471 /* PBXTextBookmark */;
+			A5B40DAF14ADFC7E00325471 /* PBXTextBookmark */ = A5B40DAF14ADFC7E00325471 /* PBXTextBookmark */;
+			A5B40DB014ADFC7E00325471 /* PBXTextBookmark */ = A5B40DB014ADFC7E00325471 /* PBXTextBookmark */;
+			A5B40DB114ADFC7E00325471 /* PBXTextBookmark */ = A5B40DB114ADFC7E00325471 /* PBXTextBookmark */;
+			A5B40DB414ADFD2D00325471 /* PBXTextBookmark */ = A5B40DB414ADFD2D00325471 /* PBXTextBookmark */;
+			A5B40DB514ADFD2D00325471 /* PBXTextBookmark */ = A5B40DB514ADFD2D00325471 /* PBXTextBookmark */;
+			A5B40DBE14ADFF3500325471 /* PBXTextBookmark */ = A5B40DBE14ADFF3500325471 /* PBXTextBookmark */;
+			A5B40DBF14ADFF3500325471 /* PBXTextBookmark */ = A5B40DBF14ADFF3500325471 /* PBXTextBookmark */;
+			A5B40DC014ADFF3500325471 /* PBXTextBookmark */ = A5B40DC014ADFF3500325471 /* PBXTextBookmark */;
+			A5B40DC114ADFF3500325471 /* PBXTextBookmark */ = A5B40DC114ADFF3500325471 /* PBXTextBookmark */;
+			A5B40DC714AE00F500325471 /* PBXBookmark */ = A5B40DC714AE00F500325471 /* PBXBookmark */;
+			A5B40DC814AE00F500325471 /* PBXBookmark */ = A5B40DC814AE00F500325471 /* PBXBookmark */;
+			A5B40DC914AE00F500325471 /* PBXBookmark */ = A5B40DC914AE00F500325471 /* PBXBookmark */;
+			A5B40DCA14AE00F500325471 /* PBXBookmark */ = A5B40DCA14AE00F500325471 /* PBXBookmark */;
+			A5B40DCB14AE00F500325471 /* PBXBookmark */ = A5B40DCB14AE00F500325471 /* PBXBookmark */;
+			A5B40DCC14AE00F500325471 /* PBXBookmark */ = A5B40DCC14AE00F500325471 /* PBXBookmark */;
+			A5B40DCD14AE00F500325471 /* PBXBookmark */ = A5B40DCD14AE00F500325471 /* PBXBookmark */;
+			A5B40DCE14AE00F500325471 /* PBXBookmark */ = A5B40DCE14AE00F500325471 /* PBXBookmark */;
+			A5B40DCF14AE00F500325471 /* PBXBookmark */ = A5B40DCF14AE00F500325471 /* PBXBookmark */;
+			A5B40DD014AE00F500325471 /* PBXBookmark */ = A5B40DD014AE00F500325471 /* PBXBookmark */;
+			A5B40DD114AE00F500325471 /* PBXBookmark */ = A5B40DD114AE00F500325471 /* PBXBookmark */;
+			A5B40DD214AE00F500325471 /* PBXBookmark */ = A5B40DD214AE00F500325471 /* PBXBookmark */;
+			A5B40DD314AE00F500325471 /* PBXBookmark */ = A5B40DD314AE00F500325471 /* PBXBookmark */;
+			A5B40DD414AE00F500325471 /* PBXBookmark */ = A5B40DD414AE00F500325471 /* PBXBookmark */;
+			A5B40DD514AE00F500325471 /* PBXBookmark */ = A5B40DD514AE00F500325471 /* PBXBookmark */;
+			A5B40DD614AE00F500325471 /* PBXBookmark */ = A5B40DD614AE00F500325471 /* PBXBookmark */;
+			A5B40DD714AE00F500325471 /* PBXBookmark */ = A5B40DD714AE00F500325471 /* PBXBookmark */;
+			A5B40DD814AE00F500325471 /* PBXBookmark */ = A5B40DD814AE00F500325471 /* PBXBookmark */;
+			A5B40DD914AE00F500325471 /* PBXBookmark */ = A5B40DD914AE00F500325471 /* PBXBookmark */;
+			A5B40DDA14AE00F500325471 /* PBXBookmark */ = A5B40DDA14AE00F500325471 /* PBXBookmark */;
+			A5B40DDB14AE00F500325471 /* PBXBookmark */ = A5B40DDB14AE00F500325471 /* PBXBookmark */;
+			A5B40DDC14AE00F500325471 /* PBXBookmark */ = A5B40DDC14AE00F500325471 /* PBXBookmark */;
+			A5B40DDD14AE00F500325471 /* PBXBookmark */ = A5B40DDD14AE00F500325471 /* PBXBookmark */;
+			A5B40DDE14AE00F500325471 /* PBXBookmark */ = A5B40DDE14AE00F500325471 /* PBXBookmark */;
+			A5B40DDF14AE00F500325471 /* PBXBookmark */ = A5B40DDF14AE00F500325471 /* PBXBookmark */;
+			A5B40DE014AE00F500325471 /* PBXBookmark */ = A5B40DE014AE00F500325471 /* PBXBookmark */;
+			A5B40DE114AE00F500325471 /* PBXBookmark */ = A5B40DE114AE00F500325471 /* PBXBookmark */;
+			A5B40DE214AE00F500325471 /* PBXBookmark */ = A5B40DE214AE00F500325471 /* PBXBookmark */;
+			A5B40DE314AE00F500325471 /* PBXBookmark */ = A5B40DE314AE00F500325471 /* PBXBookmark */;
+			A5B40DE414AE00F500325471 /* PBXBookmark */ = A5B40DE414AE00F500325471 /* PBXBookmark */;
+			A5B40DEE14AE024200325471 /* PBXTextBookmark */ = A5B40DEE14AE024200325471 /* PBXTextBookmark */;
+			A5B40DFB14AE02B100325471 /* PBXTextBookmark */ = A5B40DFB14AE02B100325471 /* PBXTextBookmark */;
+			A5B40E1D14AE04F800325471 /* PBXTextBookmark */ = A5B40E1D14AE04F800325471 /* PBXTextBookmark */;
+			A5B40E2B14AE05F600325471 /* PBXTextBookmark */ = A5B40E2B14AE05F600325471 /* PBXTextBookmark */;
+			A5B40E7F14AE0D3800325471 /* PBXTextBookmark */ = A5B40E7F14AE0D3800325471 /* PBXTextBookmark */;
+			A5B40E8814AE0E6D00325471 /* PBXTextBookmark */ = A5B40E8814AE0E6D00325471 /* PBXTextBookmark */;
+			A5B40E8914AE0E6D00325471 /* PBXTextBookmark */ = A5B40E8914AE0E6D00325471 /* PBXTextBookmark */;
+			A5B40E8A14AE0E6D00325471 /* PBXTextBookmark */ = A5B40E8A14AE0E6D00325471 /* PBXTextBookmark */;
+			A5B40E8B14AE0E6D00325471 /* PBXTextBookmark */ = A5B40E8B14AE0E6D00325471 /* PBXTextBookmark */;
+			A5B40E8C14AE0E6D00325471 /* PBXTextBookmark */ = A5B40E8C14AE0E6D00325471 /* PBXTextBookmark */;
+			A5B40E8F14AE0EC300325471 /* PBXTextBookmark */ = A5B40E8F14AE0EC300325471 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A5A3C13614A36DA100495144 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A5A3C12214A36D7E00495144 /* 3GMDoc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = 3GMDoc;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	A5A3C13614A36DA100495144 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A5A3C13714A36DA100495144 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A5A3C14A14A373C200495144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2673FDAA14A0913F0014BCE7 /* STPNAddPatientViewController.h */;
+		name = "STPNAddPatientViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1636;
+		vrLoc = 0;
+	};
+	A5A3C17C14A379EB00495144 /* PostAppointmentInvocation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 534}}";
+			sepNavSelRange = "{187, 0}";
+			sepNavVisRange = "{0, 568}";
+		};
+	};
+	A5A3C17D14A379EB00495144 /* PostAppointmentInvocation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1594, 754}}";
+			sepNavSelRange = "{416, 0}";
+			sepNavVisRange = "{286, 1148}";
+		};
+	};
+	A5A3C19314A37E0E00495144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 26B1A8B814A0FA2F006C0701 /* STPNMoveAppointmentViewController.m */;
+		name = "STPNMoveAppointmentViewController.m: 261";
+		rLen = 0;
+		rLoc = 8032;
+		rType = 0;
+		vrLen = 1375;
+		vrLoc = 7121;
+	};
+	A5A3C19414A37E0E00495144 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* _GMDocAppDelegate.m */;
+		name = "_GMDocAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1404;
+		vrLoc = 0;
+	};
+	A5B40D7414ADF1F300325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2673FCF214A0913F0014BCE7 /* PatientAddress.h */;
+		name = "PatientAddress.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 0;
+	};
+	A5B40D7514ADF1F300325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2677C760149855E300F44782 /* _GMDocAsyncInvocation.m */;
+		name = "_GMDocAsyncInvocation.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 0;
+	};
+	A5B40D7614ADF1F300325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04262FC31498E3380079039F /* GetTabletInvocation.m */;
+		name = "GetTabletInvocation.m: 22";
+		rLen = 0;
+		rLoc = 401;
+		rType = 0;
+		vrLen = 1205;
+		vrLoc = 0;
+	};
+	A5B40D7714ADF1F300325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 267B896B1499217500B71687 /* GetLoginInvocation.m */;
+		name = "GetLoginInvocation.m: 27";
+		rLen = 0;
+		rLoc = 619;
+		rType = 0;
+		vrLen = 1438;
+		vrLoc = 183;
+	};
+	A5B40D7814ADF1F300325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 267330E214992BC300D86D1A /* GetUserInvocation.m */;
+		name = "GetUserInvocation.m: 18";
+		rLen = 0;
+		rLoc = 343;
+		rType = 0;
+		vrLen = 1316;
+		vrLoc = 0;
+	};
+	A5B40D7914ADF1F300325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 26B26B2D149A71C6002A961F /* GetScheduleInvocation.m */;
+		name = "GetScheduleInvocation.m: 27";
+		rLen = 0;
+		rLoc = 683;
+		rType = 0;
+		vrLen = 1265;
+		vrLoc = 0;
+	};
+	A5B40D7A14ADF1F300325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2673FCFF14A0913F0014BCE7 /* GetPatientInvocation.m */;
+		name = "GetPatientInvocation.m: 19";
+		rLen = 0;
+		rLoc = 372;
+		rType = 0;
+		vrLen = 1447;
+		vrLoc = 0;
+	};
+	A5B40D7B14ADF1F300325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2673FD5814A0913F0014BCE7 /* GetConnonInvocation.m */;
+		name = "GetConnonInvocation.m: 25";
+		rLen = 0;
+		rLoc = 517;
+		rType = 0;
+		vrLen = 931;
+		vrLoc = 0;
+	};
+	A5B40D8814ADF61700325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2673FCF814A0913F0014BCE7 /* PatientContactDetails.h */;
+		name = "PatientContactDetails.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 594;
+		vrLoc = 0;
+	};
+	A5B40DA614ADFC7E00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2673FD5F14A0913F0014BCE7 /* STPNBlockAppointmentViewController.m */;
+		name = "STPNBlockAppointmentViewController.m: 186";
+		rLen = 69;
+		rLoc = 5235;
+		rType = 0;
+		vrLen = 1211;
+		vrLoc = 4592;
+	};
+	A5B40DA914ADFC7E00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 267330E414992CE100D86D1A /* UserDetail.h */;
+		name = "UserDetail.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 0;
+	};
+	A5B40DAA14ADFC7E00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 267330C51499231100D86D1A /* Response.h */;
+		name = "Response.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	A5B40DAC14ADFC7E00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 26A2D7D7149E141400178152 /* Appointment.h */;
+		name = "Appointment.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 0;
+	};
+	A5B40DAD14ADFC7E00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2673FBF2149DBE4D0014BCE7 /* Booking.h */;
+		name = "Booking.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	A5B40DAE14ADFC7E00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2673FBF9149DBE4D0014BCE7 /* Patdemographics.h */;
+		name = "Patdemographics.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 484;
+		vrLoc = 0;
+	};
+	A5B40DAF14ADFC7E00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 267330CC1499234700D86D1A /* DeviceDeatils.h */;
+		name = "DeviceDeatils.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 595;
+		vrLoc = 0;
+	};
+	A5B40DB014ADFC7E00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2673FCED14A0913F0014BCE7 /* Patient.m */;
+		name = "Patient.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 0;
+	};
+	A5B40DB114ADFC7E00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2673FCEC14A0913F0014BCE7 /* Patient.h */;
+		name = "Patient.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 937;
+		vrLoc = 0;
+	};
+	A5B40DB414ADFD2D00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5A3C17C14A379EB00495144 /* PostAppointmentInvocation.h */;
+		name = "PostAppointmentInvocation.h: 10";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	A5B40DB514ADFD2D00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 26B1A8CA14A10BFA006C0701 /* PostMoveAppointmentInvocation.h */;
+		name = "PostMoveAppointmentInvocation.h: 23";
+		rLen = 51;
+		rLoc = 488;
+		rType = 0;
+		vrLen = 695;
+		vrLoc = 0;
+	};
+	A5B40DBE14ADFF3500325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2677C761149855E300F44782 /* _GMDocService.h */;
+		name = "_GMDocService.h: 39";
+		rLen = 161;
+		rLoc = 1667;
+		rType = 0;
+		vrLen = 2227;
+		vrLoc = 58;
+	};
+	A5B40DBF14ADFF3500325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2677C762149855E300F44782 /* _GMDocService.m */;
+		name = "_GMDocService.m: 97";
+		rLen = 0;
+		rLoc = 3619;
+		rType = 0;
+		vrLen = 1895;
+		vrLoc = 2429;
+	};
+	A5B40DC014ADFF3500325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 26B26B25149A6B39002A961F /* Schedule.m */;
+		name = "Schedule.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 970;
+		vrLoc = 0;
+	};
+	A5B40DC114ADFF3500325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 26B26B24149A6B39002A961F /* Schedule.h */;
+		name = "Schedule.h: 24";
+		rLen = 13;
+		rLoc = 722;
+		rType = 0;
+		vrLen = 1246;
+		vrLoc = 0;
+	};
+	A5B40DC714AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A5A3C13914A36E1B00495144 /* now.png */;
+	};
+	A5B40DC814AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A5A3C13A14A36E1B00495144 /* submit.png */;
+	};
+	A5B40DC914AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 26CED1BD14A0A8430036D145 /* delete.png */;
+	};
+	A5B40DCA14AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2673FD5A14A0913F0014BCE7 /* add.png */;
+	};
+	A5B40DCB14AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2673FD5B14A0913F0014BCE7 /* search.png */;
+	};
+	A5B40DCC14AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 26354F52149DB96C00AC7CF8 /* img.jpeg */;
+	};
+	A5B40DCD14AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5E1149850AF00F44782 /* add_btn.png */;
+	};
+	A5B40DCE14AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5E2149850AF00F44782 /* add_schedule.png */;
+	};
+	A5B40DCF14AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5E3149850AF00F44782 /* add_yellow.png */;
+	};
+	A5B40DD014AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5E4149850AF00F44782 /* appointment.png */;
+	};
+	A5B40DD114AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5E5149850AF00F44782 /* arrow.png */;
+	};
+	A5B40DD214AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5E6149850AF00F44782 /* back_stick.png */;
+	};
+	A5B40DD314AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5E7149850AF00F44782 /* block.png */;
+	};
+	A5B40DD414AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5E8149850AF00F44782 /* callender.png */;
+	};
+	A5B40DD514AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5E9149850AF00F44782 /* cancel.png */;
+	};
+	A5B40DD614AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5EA149850AF00F44782 /* cell_bg.png */;
+	};
+	A5B40DD714AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5EB149850AF00F44782 /* consultation.png */;
+	};
+	A5B40DD814AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5EC149850AF00F44782 /* Default-Landscape~ipad.png */;
+	};
+	A5B40DD914AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5ED149850AF00F44782 /* Default.png */;
+	};
+	A5B40DDA14AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5EE149850AF00F44782 /* disclaimer.png */;
+	};
+	A5B40DDB14AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5EF149850AF00F44782 /* done.png */;
+	};
+	A5B40DDC14AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5F0149850AF00F44782 /* fix.png */;
+	};
+	A5B40DDD14AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5F1149850AF00F44782 /* FormsheetHeader.png */;
+	};
+	A5B40DDE14AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5F2149850AF00F44782 /* icon.png */;
+	};
+	A5B40DDF14AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5F3149850AF00F44782 /* login.jpg */;
+	};
+	A5B40DE014AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5F4149850AF00F44782 /* login_btn.png */;
+	};
+	A5B40DE114AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5F5149850AF00F44782 /* move.png */;
+	};
+	A5B40DE214AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5F6149850AF00F44782 /* move_cancel.png */;
+	};
+	A5B40DE314AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5F8149850AF00F44782 /* que_btn.png */;
+	};
+	A5B40DE414AE00F500325471 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2677C5F7149850AF00F44782 /* No_Image.png */;
+	};
+	A5B40DEE14AE024200325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 267330D314992A9100D86D1A /* STPNHomeScreen.m */;
+		name = "STPNHomeScreen.m: 92";
+		rLen = 0;
+		rLoc = 2411;
+		rType = 0;
+		vrLen = 1731;
+		vrLoc = 1657;
+	};
+	A5B40DFB14AE02B100325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2673FDAB14A0913F0014BCE7 /* STPNAddPatientViewController.m */;
+		name = "STPNAddPatientViewController.m: 266";
+		rLen = 0;
+		rLoc = 8589;
+		rType = 0;
+		vrLen = 1188;
+		vrLoc = 2826;
+	};
+	A5B40E1D14AE04F800325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 26395ED4149CED11008CA1D7 /* STPNAppointmentRootViewController.m */;
+		name = "STPNAppointmentRootViewController.m: 21";
+		rLen = 0;
+		rLoc = 563;
+		rType = 0;
+		vrLen = 1378;
+		vrLoc = 55;
+	};
+	A5B40E2B14AE05F600325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 26B43EA414A0CE6300F66B74 /* AddPatientInvocation.h */;
+		name = "AddPatientInvocation.h: 26";
+		rLen = 0;
+		rLoc = 663;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 0;
+	};
+	A5B40E7F14AE0D3800325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2677C757149855E300F44782 /* SAServiceAsyncInvocation.m */;
+		name = "SAServiceAsyncInvocation.m: 176";
+		rLen = 0;
+		rLoc = 4841;
+		rType = 0;
+		vrLen = 1334;
+		vrLoc = 4243;
+	};
+	A5B40E8814AE0E6D00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5A3C17D14A379EB00495144 /* PostAppointmentInvocation.m */;
+		name = "PostAppointmentInvocation.m: 22";
+		rLen = 0;
+		rLoc = 416;
+		rType = 0;
+		vrLen = 1148;
+		vrLoc = 286;
+	};
+	A5B40E8914AE0E6D00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 26B43EA514A0CE6300F66B74 /* AddPatientInvocation.m */;
+		name = "AddPatientInvocation.m: 68";
+		rLen = 0;
+		rLoc = 1824;
+		rType = 0;
+		vrLen = 1551;
+		vrLoc = 854;
+	};
+	A5B40E8A14AE0E6D00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2673FC8814A0913F0014BCE7 /* STPNFixAppointmentViewController.m */;
+		name = "STPNFixAppointmentViewController.m: 237";
+		rLen = 34;
+		rLoc = 6776;
+		rType = 0;
+		vrLen = 1156;
+		vrLoc = 7234;
+	};
+	A5B40E8B14AE0E6D00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 26B1A8CB14A10BFA006C0701 /* PostMoveAppointmentInvocation.m */;
+		name = "PostMoveAppointmentInvocation.m: 29";
+		rLen = 13;
+		rLoc = 602;
+		rType = 0;
+		vrLen = 1364;
+		vrLoc = 325;
+	};
+	A5B40E8C14AE0E6D00325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 26B43E5A14A0C53200F66B74 /* InsertAppointmentInvocation.m */;
+		name = "InsertAppointmentInvocation.m: 23";
+		rLen = 0;
+		rLoc = 457;
+		rType = 0;
+		vrLen = 1033;
+		vrLoc = 89;
+	};
+	A5B40E8F14AE0EC300325471 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 26B43E5A14A0C53200F66B74 /* InsertAppointmentInvocation.m */;
+		name = "InsertAppointmentInvocation.m: 37";
+		rLen = 0;
+		rLoc = 961;
+		rType = 0;
+		vrLen = 1089;
+		vrLoc = 106;
+	};
+}
